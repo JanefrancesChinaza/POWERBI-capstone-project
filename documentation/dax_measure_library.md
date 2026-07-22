@@ -1,2 +1,5 @@
-# DAX Measure Library
-Centralized repository for custom DAX calculations used in the Power BI model.
+Previous Tournament Goals = 
+CALCULATE(
+    [Total Goals Scored],
+    DATEADD(Dim_Date[Year], -4, YEAR)
+)

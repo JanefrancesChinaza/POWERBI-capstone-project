@@ -50,7 +50,8 @@ powerbi-capstone-project/
 ├── 📁 case-study/                      <- Executive case study report & presentation deck
 │   ├── Oodo_Janefrances_PBI_CaseStudy.pdf
 │   └── Oodo_Janefrances_PBI_Presentation.pdf
-├── 📁 documentation/                   <- Technical documentation & DAX formulas
+├── 📁 documentation/                   <- Technical documentation & security controls
+│   ├── security_governance.md
 │   └── dax_measure_library.md
 ├── 📁 model/                           <- Power BI project file & ERD diagram
 │   ├── Oodo_Janefrances_PBI_Capstone.pbip
